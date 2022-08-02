@@ -1,4 +1,4 @@
-# primeiro-repositóio
+# primeiro-repositório
 ```
 para copiar o código em HTML:
 <html>
